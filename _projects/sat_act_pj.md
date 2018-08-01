@@ -8,7 +8,7 @@ links:
   - title: Tableau Story
     url: https://public.tableau.com/profile/schubert.h.laforest#!/vizhome/SATACTParticipation_0/Story1
   - title: Github Code Source
-    url: https://github.com/schubline/sat_act_scores_project
+    url: https://github.com/schubline/sat_act_scores_project/blob/master/Project%201%20-%20Standardized%20Testing%2C%20Statistical%20Summaries%20and%20Inference%20with%20SAT%20%26%20ACT%20Scores%20from%202017-FINAL.ipynb
 caption: Standardized Testing, Statistical Summaries and Inference with SAT & ACT Scores 2017
 description: >+
 
