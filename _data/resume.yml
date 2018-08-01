@@ -1,0 +1,198 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Schubert Hervey Laforest"
+  label: "Jr. Data Scientist"
+  picture: "/assets/img/me.jpg"
+  email: ""
+  # phone: "(912) 555-4321"
+  # website: "https://piedpiper.com"
+  summary: >
+    filler
+  location:
+    # address: "2712 Broadway St"
+    # postalCode: "CA 94115"
+    city: "Greater Boston Area"
+    countryCode: "US"
+    region: "Massachusetts"
+  profiles:
+    - network: "Twitter"
+      username: "schubline"
+      url: "https://twitter.com/schubline"
+    - network: "LinkedIn"
+      username: "Schubert Hervey Laforest"
+      url: "https://www.linkedin.com/in/schubert-hervey-laforest/"
+    - network: "Github"
+      username: "schubline"
+      url: "https://github.com/schubline"
+work:
+  - company: "General Assembly"
+    position: "Data Science Immersive Fellow"
+    website: "https://generalassemb.ly/"
+    startDate: "2018-04-01"
+    endDate: "2018-07-17"
+    summary: >
+      During this full-time (420hrs +) intensive Data Science program, my job was to master the art of taking large data sets and analyze them using different types of models and algorithms to gain insights and predict trends.
+    highlights:
+      - "Performed visual and statistical analysis on 60 + real world datasets using Python and its associated libraries and tools"
+      - "Built, implemented, and evaluated data science problems using appropriate machine learning models and algorithms, ranging from simple Linear Regression, CARTS, and LSTMs."
+      - "Built a recommender system based of off user review sentiment via Natural Language Processing"
+
+  - company: "Flatbook (now Sonder)"
+    position: "Digital Marketing Specialist"
+    website: "https://www.sonder.com/"
+    startDate: "2015-03-10"
+    endDate: "2016-11-25"
+    summary: >
+      Sonder brings hotel hospitality to the sharing economy. Clients can rent one-of-a-kind Sonders in unique neighborhoods and find the same consistent standard of quality inside: crisp white linens, high-end kitchen and bath essentials, and 24/7 concierge service.
+    highlights:
+      - "Developed digital marketing strategies (paid, earned and organic media) for projects, including the company website and social media, while also pursuing alternative marketing channels"
+      - "Created weekly reports for executives and investors by analyzing all online presence data to determine campaign efficiency as per our brand objectives and KPIs"
+      - "Responsible for maintaining our database and tracking the progress of all leases signed and tenant profiles, ensuring city team CRMs were up to date"
+
+  - company: "Binder"
+    position: "Business Development Manager"
+    website: "http://www.mybinder.io/"
+    startDate: "2014-09-01"
+    endDate: "2015-02-07"
+    summary: >
+      Binder (previously Endeavor Up), is a venture- backed startup that was part of the Founder Fuel 2014 cohort at Notman House. Binder connects top college candidates to employers in a simple, engaging and efficient way. Clients we’ve worked with: Merrill Lynch, KPMG, Saatchi & Saatchi, Ogilvy & Mathers, Ubisoft, and many others
+    highlights:
+      - "Managed and expanded the campus ambassador program, consisting of over 70 student spokespersons on campuses across North America. This helped grow our user base from 300 students to 5,700 in 3 months"
+      - "Conducted weekly calls and meetings with corporate clients and job providers to improve our talent pairing process"
+      - Proactively developed new strategic partnerships with organizations like Elite Daily, Intern Queen and Chinese Language Institute
+      - Wrote articles and weekly blog posts for the Binder student blog, doing SEO optimization on all posts and creative content
+
+  - company: "Cesium Telecom"
+    position: "Marketing & Brand Management Assistant"
+    website: "https://shop.cesiumonline.com/"
+    startDate: "2014-01-01"
+    endDate: "2014-11-17"
+    summary: >
+      Cesium is one of North America’s leading distributors with over 2,000 distribution points of Original Equipment Manufacturer (OEM) and other branded wireless-related products. It serves various distribution channels, providing the best in consumer electronics
+    highlights:
+      - "Created professional product presentations, sales sheets, B2B email newsletters via MailChimp, using A/B testing and increased median open rate from 7% to 43%"
+      - "Support of website content management; basic graphic design, banner creation, product reviews, all while maintaining both Cesium and supplier’s brand identity throughout"
+      - Assisted marketing department in new campaign creation and developing CRM & post-campaign marketing KPI reports for brand/product evaluation
+
+# volunteer:
+#   - organization: "CoderDojo"
+#     position: "Teacher"
+#     website: "https://coderdojo.com/"
+#     startDate: "2012-01-01"
+#     endDate: "2013-01-01"
+#     summary: "Global movement of free coding clubs for young people."
+#     highlights:
+#       - "Awarded 'Teacher of the Month'"
+education:
+  - institution: "General Assembly (2018)"
+    area: "Data Science, Machine Learning & Big Data"
+    studyType: "Immersive Certificate"
+    # startDate: "2011-06-01"
+    date: "2014-06-01"
+    # gpa: "4.0"
+    # courses:
+    #   - "DB1101 - Basic SQL"
+    #   - "CS2011 - Java Introduction"
+  - institution: "General Assembly (2017)"
+    area: "Data Analytics (Part-Time)"
+    studyType: "Certificate"
+    # startDate: "2011-06-01"
+    date: "2014-06-01"
+    # gpa: "4.0"
+    # courses:
+    #   - "DB1101 - Basic SQL"
+    #   - "CS2011 - Java Introduction"
+  - institution: "Concordia University (2014)"
+    area: "Linguistics, Political Science and Marketing"
+    studyType: "Bachelor"
+    # startDate: "2011-06-01"
+    date: "2014-06-01"
+    # gpa: "4.0"
+    # courses:
+    #   - "DB1101 - Basic SQL"
+    #   - "CS2011 - Java Introduction"
+  - institution: "International School of Boston"
+    area: "History, Biology, English, French, Spanish, Math"
+    studyType: "Bilingual International Baccalureate"
+    # startDate: "2011-06-01"
+    date: "2008-06-01"
+    # gpa: "4.0"
+    # courses:
+    #   - "DB1101 - Basic SQL"
+    #   - "CS2011 - Java Introduction"
+
+
+# awards:
+#   - title: "Digital Compression Pioneer Award"
+#     date: "2014-11-01"
+#     awarder: "Techcrunch"
+#     summary: "There is no spoon."
+publications:
+  - name: "Contending Approaches to Negative Polarity Items"
+    publisher: "Me"
+    releaseDate: "2013-04-15"
+    website: "https://www.academia.edu/23425057/Contending_approaches_to_Negative_Polarity_Items(Paper)"
+    summary: "Theoretical Review of differing accounts of Negative Polarity Item Licensing in English"
+
+skills:
+  - name: "Coding Languages"
+    # level: "Master"
+    keywords:
+      - "Python"
+      - "SQL"
+      - "HTML"
+      # - "Javascript"
+  - name: "Math"
+    # level: "Master"
+    keywords:
+      - "Descriptive Statistics"
+      - "Inferential Statistics"
+      - "Bayesian Statistics"
+
+  - name: "Modeling Techniques (non-exhauistive)"
+    # level: "Master"
+    keywords:
+      - "Linear Regression"
+      - "Logistic Regression"
+      - "K-Nearest-Neighbours"
+      - "Decision Trees"
+      - "Random Forests"
+      - "Latent Derichlet Allocation"
+      - "Support Vector Machines"
+      - "K-Means Clustering"
+      - "DBSCAN and HDBSCAN"
+      - "Neural Networks"
+      - "ARIMA"
+
+  - name: "Software"
+    # level: "Master"
+    keywords:
+      - "Excel"
+      - "Tableau"
+      - "PostgreSQL"
+      - "Photoshop"
+      - "MailChimp"
+      - "Microsoft Office"
+
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+
+  - language: "French"
+    fluency: "Native speaker"
+
+  - language: "Spanish"
+    fluency: "Intermediate"
+# interests:
+#  - name: "Wildlife"
+#    keywords:
+#      - "Ferrets"
+#      - "Unicorns"
+
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.

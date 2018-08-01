@@ -1,0 +1,28 @@
+---
+layout: project
+title: 'Ames Housing Data & Kaggle Challenge'
+date: 18 May 2018
+image: /assets/img/projects/
+screenshot: /assets/img/projects/houses.gif
+links:
+#  - title: Blog Post
+#    url: https://qwtel.com/hy-drawer/
+  - title: Github Code Repository
+    url: https://github.com/schubline/ames_housing_project
+caption: Building a regression model based on the Ames Housing Dataset to predict the price of a house at sale.
+description: |
+  For this project, I was tasked with creating a linear regression model based on the Ames Housing Dataset. This model is supposed to predict the price of a house at sale. The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses. The goal will be to find the most pertinent features that will enable us to make accurate predictions of the target house Sale Price.
+
+  In the context of this project, model selection was made for me Linear regression was the name of the game. However, the challenge and complexity of the task would lie in cleaning the data, finding and creating pertinent features, and ultimately the best and most accurate model possible. In order to create this regression model, I make use of the following techniques
+
+    - Exploratory data analysis to question correlation and relationship across predictive variables
+    - Train-test split and Cross-validation
+    - Write code that reproducibly and consistently applies feature transformation
+    - Experiment with four modeling techniques, namely  Multivariate Linear regression, Ridge Regression, Lasso Regression and Elastic Net
+
+
+accent_color: '#4fb1ba'
+accent_image:
+  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
+  overlay:    true
+---

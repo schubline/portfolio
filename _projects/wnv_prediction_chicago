@@ -1,0 +1,25 @@
+---
+layout: project
+title: 'West Nile Virus Prediction'
+date: 15 June 2018
+image: /assets/img/projects/
+screenshot: /assets/img/projects/spray_kep_viz.gif
+links:
+  - title: Group Presentation
+    url: https://prezi.com/view/dLiMSDKIuVMUKMuWyY8O/
+  - title: Github Code Repository
+    url: https://github.com/schubline/west_nile_virus_project
+caption: Predicting West Nile Virus in mosquitos across the City of Chicago
+
+description: |
+
+  Given weather, location, testing, and spraying data, our group had to attempt to build a model to predict when and where different species of mosquitos would test positive for West Nile virus. The business objective being that a more accurate method of predicting outbreaks of West Nile virus in mosquitos would help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus.
+
+
+
+
+accent_color: '#4fb1ba'
+accent_image:
+  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
+  overlay:    true
+---
