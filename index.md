@@ -7,8 +7,8 @@ title:  Welcome
 cover:  true
 
 selected_projects:
-  - _projects/ames-housing-kaggle
-  - _projects/wnv_prediction_chicago
+  - _projects/sat_act_pj.md
+  - _projects/tidepool_hackathon.md
 more_projects: projects.md
 selected_posts:
   - _posts/2018-07-10-landscape-online-reviews.md
