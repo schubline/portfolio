@@ -7,7 +7,7 @@ title:  Welcome
 cover:  true
 
 selected_projects:
-  - _projects/anatomy_of_viral
+  - _projects/sat_act_pj.md
   - _projects/tidepool_hackathon.md
 more_projects: projects.md
 selected_posts:
