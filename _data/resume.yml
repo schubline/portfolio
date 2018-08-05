@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Schubert Hervey Laforest"
-  label: "Jr. Data Scientist"
+  label: "Data Scientist"
   picture: "/assets/img/me.jpg"
   email: ""
   # phone: "(912) 555-4321"
