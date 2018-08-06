@@ -19,7 +19,7 @@ featured: false
 
 Hello, welcome to my portfolio/blog! I'm Schubert, and as an avid problem solver and data enthusiast, I live at the intersection of data, social science and the internet. On this site you'll find a collection of data science projects I've worked on, a few blog posts and an abridged version of my resume. Click away! :)
 
-Feel free to reach out if you'd like to connect, I'm always looking for new opportunities and feedback!(Email: laforest.hervey@gmail.com)
+Feel free to reach out if you'd like to connect via LinkedIn, email or Twitter. I'm always looking for new opportunities and feedback!
 
 
 
