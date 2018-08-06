@@ -13,7 +13,10 @@ caption: Predicting West Nile Virus in mosquitos across the City of Chicago.
 
 description: |
 
-  Given weather, location, testing, and spraying data, our group had to attempt to build a model to predict when and where different species of mosquitos would test positive for West Nile virus. The business objective being that a more accurate method of predicting outbreaks of West Nile virus in mosquitos would help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus.
+  Yellow dots are mosquito traps without West Nile Virus, orange dots are traps where WNV was present. Blue moving dots are truck spray routes. (Made with Uber's Kepler GL)
+
+  - Given weather, location, testing, and spraying data, our group had to
+  attempt to build a model to predict when and where different species of mosquitos would test positive for West Nile virus. The business objective being that a more accurate method of predicting outbreaks of West Nile virus in mosquitos would help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus.
 
 
 
