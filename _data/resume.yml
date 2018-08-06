@@ -7,7 +7,7 @@ basics:
   picture: "/assets/img/me.jpg"
   email: "laforest.hervey@gmail.com"
   # phone: "(912) 555-4321"
-  website: "PDF Download: https://bit.ly/2M5UJqL"
+  fallback: "https://bit.ly/2M5UJqL"
   summary: >
     Hello! I’m a classically trained theoretical linguist who’s worked in marketing, advertising and business development at high growth companies. From academic research, to solving  business problems, analysing data and finding insight therein has always been the outlet for my insatiable curiosity. I’m particularly passionate about understanding user behavior on the internet, and building models that can create better experiences. I’m looking for opportunities in  E-commerce, Natural Language Processing and marketing attribution.
   location:
