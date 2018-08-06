@@ -27,6 +27,7 @@ basics:
       username: "schubline"
       url: "https://github.com/schubline"
     - network: "Download"
+      username: "Download Resume PDF"
       url: "https://bit.ly/2M5UJqL"
 work:
   - company: "General Assembly"
