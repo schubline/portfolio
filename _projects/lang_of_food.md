@@ -5,8 +5,8 @@ date: 16 July 2018
 image: /assets/img/projects/
 screenshot: /assets/img/projects/yelp_plates.png
 links:
-#  - title: Blog Post
-#    url: https://qwtel.com/hy-drawer/
+  - title: Lightning Talk Presentation
+    url: https://www.dropbox.com/s/y544pyl9eym7ac1/capstone_lightning_talk_presentation.pdf?dl=0
   - title: Github Code Repository
     url: https://github.com/schubline/capstone_project
 caption: How can we leverage Natural Language Processing and Recommender Systems to improve dining experiences?
