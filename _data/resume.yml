@@ -37,7 +37,7 @@ work:
     position: "Business Operations Analyst II- Global Campaigns"
     website: "https://www.akamai.com/"
     startDate: "2018-08-27"
-    endDate: "Present"
+    # endDate: "Present"
     summary: >
       At Akamai Technologies, I work directly with the Global Campaigns team to help analyze, articulate and report on the impact of the website, content and all campaign activity on key strategic objectives.
     highlights:
@@ -50,7 +50,7 @@ work:
     position: "Data Science Immersive Fellow"
     website: "https://generalassemb.ly/"
     startDate: "2018-04-01"
-    # endDate: "2018-07-17"
+    endDate: "2018-07-17"
     summary: >
       During this full-time (420hrs +) intensive Data Science program, my job was to master the art of taking large data sets and analyze them using different types of models and algorithms to gain insights and predict trends.
     highlights:
