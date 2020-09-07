@@ -28,7 +28,7 @@ basics:
       url: "https://github.com/schubline"
     - network: "Download"
       username: "Download Resume PDF"
-      url: "https://bit.ly/2Zdh4bc"
+      url: "https://bit.ly/3lWswBP"
     - network: "Youtube"
       username: "Youtube"
       url: "https://bit.ly/3h1npwA"
@@ -50,7 +50,7 @@ work:
     position: "Data Science Immersive Fellow"
     website: "https://generalassemb.ly/"
     startDate: "2018-04-01"
-    endDate: "2018-07-17"
+    # endDate: "2018-07-17"
     summary: >
       During this full-time (420hrs +) intensive Data Science program, my job was to master the art of taking large data sets and analyze them using different types of models and algorithms to gain insights and predict trends.
     highlights:
