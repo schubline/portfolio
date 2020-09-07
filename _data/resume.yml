@@ -72,7 +72,7 @@ work:
 
   - company: "Binder"
     position: "Business Development Manager"
-    website: "http://www.mybinder.io/"
+    # website: "http://www.mybinder.io/"
     startDate: "2014-09-01"
     endDate: "2015-02-07"
     summary: >
