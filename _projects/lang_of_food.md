@@ -13,7 +13,7 @@ caption: How can we leverage Natural Language Processing and Recommender Systems
 
 description: |
 
-  For my capstone, I leveraged Yelp Review Data in order to accomplish the a few things. On one had, build recommender algorithms for users/reviewers (comparing and contrasting item based vs content based). One based on restaurant ratings, and another based on calculated sentiment score of reviews. On the other hand, form the business side, use Natural language Processing on reviews so that they can ascertain areas of improvement/ things to keep doing that patrons like and enjoy.
+  For my capstone, I leveraged Yelp Review Data in order to accomplish the a few things. On one had, build recommender algorithms for users/reviewers (comparing and contrasting item based vs content based). One based on restaurant ratings, and another based on calculated sentiment score of reviews. On the other hand, from the business side, use Natural language Processing on reviews so that they can ascertain areas of improvement/ things to keep doing that patrons like and enjoy.
 
 
 

@@ -13,7 +13,7 @@ Take a second to think about the following stats:
 > 82% of adults consult online reviews before buying something for the first time, 40% always do
 
 
-In general marketing contexts (aka. when were scrolling through our Facebook feeds or looking for a YouTube video to watch because Netflix is too much of a commitment), when we see an ad, we have our "guard" up - we know we're being sold to, hence why it's more difficult for us to be persuaded. However, when we get feedback from ordinary people without a profit motive, the opinion seems more "genuine", and our guard goes down. This reality is one of the main reasons why online reviews can be so powerful. That being said, do reviews actually aid consumers in making better purchasing decisions?
+In general marketing contexts (i.e. when were scrolling through our Facebook feeds or looking for a YouTube video to watch because Netflix is too much of a commitment), when we see an ad, we have our guard up - we know we're being sold to, hence why can be more difficult for us to be persuaded. However, when we get feedback from ordinary people without a profit motive, the opinion seems more genuine and trustworthy. This reality is one of the main reasons why online reviews can be so powerful. That being said one might wonder: do reviews actually aid consumers in making better purchasing decisions?
 
 Fernbach et. all conducted a study where they analyzed 1272 products across 120 vertically differentiated product categories, comparing and contrasting their Amazon Reviews and their Consumer Report Scores. Here were the main takeaways:
 - They observed a lack convergence with Consumer Reports scores -
@@ -55,12 +55,12 @@ Consequently, Consumer Tights Freedom Act was passed (2017), making it illegal t
 
 
 ## What does this all mean?
-- Extreme Reviewers are over-represented
+- Extreme Reviewers are over represented
 - Having a smaller number of reviewers often leads to less reliable opinions
 - Effects of positive and negative reviews on businesses are very real
 - This is a complex problem with a lot of moving parts...
 
-It is this complexity and intrigue about this phenomena that led me to working on my project `The Language of Food: Improving Dining Experiences with NLP and Recommender systems`
+It is this complexity and intrigue about this phenomena that led me to working on my project [The Language of Food: Improving Dining Experiences with NLP and Recommender systems](https://schubline.github.io/portfolio/projects/lang_of_food/) 
 
 ---
 
