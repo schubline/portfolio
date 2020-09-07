@@ -28,8 +28,24 @@ basics:
       url: "https://github.com/schubline"
     - network: "Download"
       username: "Download Resume PDF"
-      url: "https://bit.ly/2vEmwFm"
+      url: "https://bit.ly/2Zdh4bc"
+    - network: "Youtube"
+      username: "Youtube"
+      url: "https://bit.ly/3h1npwA"
 work:
+  - company: "Akamai Technologies"
+    position: "Business Operations Analyst II- Global Campaigns"
+    website: "https://www.akamai.com/"
+    startDate: "2018-08-27"
+    endDate: "Present"
+    summary: >
+      At Akamai Technologies, I work directly with the Global Campaigns team to help analyze, articulate and report on the impact of the website, content and all campaign activity on key strategic objectives.
+    highlights:
+      - "Analyzed and reported on Akamai.com engagement in order to identify strengths and opportunities for optimization during the website redesign effort"
+      - "Built monthly reporting dashboard for the Unified Security Campaign to assess performance, business impact, all to communicate trends and make data-driven recommendations to senior executives"
+      - "Leveraged Google Analytics, SFDC, Data Studio & Tableau to collate data from multiple sources and create a repeatable and scalable reporting process"
+      - "Team Lead on the cross-functional KPIs & Data Analytics working group, created to establish critical KPIs, benchmarks and optimal reporting cadence for all Brand & Campaigns activities"
+
   - company: "General Assembly"
     position: "Data Science Immersive Fellow"
     website: "https://generalassemb.ly/"
