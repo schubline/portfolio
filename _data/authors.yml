@@ -30,7 +30,7 @@ author1:
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    youtube:         https://bit.ly/3h1npwA
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -60,7 +60,7 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    download:        https://bit.ly/2vEmwFm
+    download:        https://bit.ly/2Zdh4bc
 
 # Another author (optional)
 # author2:
